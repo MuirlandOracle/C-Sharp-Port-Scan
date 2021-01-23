@@ -6,3 +6,4 @@
 ## To-do:
 - [ ] Find a slightly better method of threading in C# that doesn't involve setting a static upper-limit on the number of threads (tried `async` and `Parallel.ForEach()` already)
 - [ ] Find and add an actual argparsing library (keeping it static)
+- [ ] Add a default port range to be used if target ports aren't specified
